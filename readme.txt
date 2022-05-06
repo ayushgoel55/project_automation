@@ -5,6 +5,10 @@ we have used
 -> bootstrap
 -> css and html
 
+execute by python manage.py runserver
+
+-> go to alfa/setting.py file go to last line and add your email and password   
+
 when you will enter you will se a folder name alfa it is the main project folder, 
 which contains all the major admin interface and models files and many more 
 
